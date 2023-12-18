@@ -1,0 +1,182 @@
+[
+  {
+    "id": "m1",
+    "title": "Mazar Sharif",
+    "image": {
+      "src": "mazarImg.jpg",
+      "alt": "Home to the historic city of Mazar-i-Sharif and a center of ancient culture and trade."
+    },
+    "lat": 36.7551,
+    "lon": 66.8976
+  },
+  {
+    "id": "m2",
+    "title": "Takhar",
+    "image": {
+      "src": "takharImg.jpg",
+      "alt": "Known for its fertile lands and being a center for trade and agriculture."
+    },
+    "lat": 36.7280,
+    "lon": 69.5269
+  },
+  {
+    "id": "m3",
+    "title": "Helmand",
+    "image": {
+      "src": "helmandImg.jpg",
+      "alt": "Primarily an agricultural province, known for its production of opium poppies."
+    },
+    "lat": 31.5907,
+    "lon": 64.3964
+  },
+  {
+    "id": "m4",
+    "title": "Bamyan",
+    "image": {
+      "src": "bamyanImg.jpg",
+      "alt": "Renowned for the ancient Buddha statues carved into cliffs and its scenic valleys."
+    },
+    "lat": 34.8100,
+    "lon": 67.8210
+  },
+  {
+    "id": "m5",
+    "title": "Nangarhar",
+    "image": {
+      "src": "nengarharImg.jpg",
+      "alt": "A region of diverse landscapes and agricultural productivity, particularly in fruits."
+    },
+    "lat": 34.1718,
+    "lon": 70.5476
+  },
+  {
+    "id": "m6",
+    "title": "Badghis",
+    "image": {
+      "src": "badghisImg.jpg",
+      "alt": "Characterized by its agricultural significance, especially in cotton production."
+    },
+    "lat": 35.1676,
+    "lon": 63.7697
+  },
+  {
+    "id": "m7",
+    "title": "Kapisa",
+    "image": {
+      "src": "kapisaImg.jpg",
+      "alt": "Known for its natural beauty and strategic location near the capital, Kabul."
+    },
+    "lat": 35.0245,
+    "lon": 69.5917
+  },
+  {
+    "id": "m8",
+    "title": "Herat",
+    "image": {
+      "src": "heratImg.jpg",
+      "alt": "A major cultural and economic hub, renowned for its historic sites and vibrant culture."
+    },
+    "lat": 34.3529,
+    "lon": 62.2047
+  },
+  {
+    "id": "m9",
+    "title": "Kabul",
+    "image": {
+      "src": "kabulImg.jpg",
+      "alt": "The capital province, housing the country's capital city and a melting pot of cultures."
+    },
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "m10",
+    "title": "Ghor",
+    "image": {
+      "src": "ghorImg.jpg",
+      "alt": "Famous for its rugged terrain and historical sites dating back to ancient times."
+    },
+    "lat": 34.0211,
+    "lon": 64.5263
+  },
+  {
+    "id": "m11",
+    "title": "Kundoz",
+    "image": {
+      "src": "kundozImg.jpg",
+      "alt": "Important for agriculture and trade, with a mix of diverse ethnic groups."
+    },
+    "lat": 36.7286,
+    "lon": 68.8681
+  },
+  {
+    "id": "m12",
+    "title": "Band-e-Amir",
+    "image": {
+      "src": "bandamirImg.jpg",
+      "alt": "Known for its rugged landscapes and being a region of diverse ethnic groups."
+    },
+    "lat": 34.8100,
+    "lon": 67.8210
+  },
+  {
+    "id": "m13",
+    "title": "Parwan",
+    "image": {
+      "src": "parwanImg.jpg",
+      "alt": "Known for its historical sites and being home to the ancient city of Charikar."
+    },
+    "lat": 35.0398,
+    "lon": 69.1714
+  },
+  {
+    "id": "m14",
+    "title": "Panjshir",
+    "image": {
+      "src": "panjshirImg.jpg",
+      "alt": "Notable for its stunning natural beauty, especially the Panjshir Valley."
+    },
+    "lat": 35.3694,
+    "lon": 69.2934
+  },
+  {
+    "id": "m15",
+    "title": "Laghman",
+    "image": {
+      "src": "laghmanImg.jpg",
+      "alt": "Known for its fertile valleys and historical significance dating back centuries."
+    },
+    "lat": 34.6660,
+    "lon": 70.2081
+  },
+  {
+    "id": "m16",
+    "title": "Kandahar",
+    "image": {
+      "src": "kandaharImg.jpg",
+      "alt": "Historically significant and culturally rich, with nice people."
+    },
+    "lat": 31.6133,
+    "lon": 65.7101
+  },
+  {
+    "id": "m17",
+    "title": "Zabul",
+    "image": {
+      "src": "zabulImg.jpg",
+      "alt": "Noted for its mountainous terrain and being a region of Pashtun tribes."
+    },
+    "lat": 32.2433,
+    "lon": 66.8286
+  },
+  {
+    "id": "m18",
+    "title": "Nuristan",
+    "image": {
+      "src": "nuristanImg.jpg",
+      "alt": "Famed for its remote and picturesque valleys, also known for its unique culture."
+    },
+    "lat": 35.2964,
+    "lon": 70.9863
+  }
+]
